@@ -1,4 +1,4 @@
-# 🔣영한 음차 변환기
+# 🈁🔠영한 음차 변환기
 
 This project is for building a transliterator, transferring a word from the alphabet of Englsih to Korean. To be robust, it is made by deep learning model, called "sequence to sequence with attention", rather than rule based model. Training data is mainly from names of people or places. You can use this system via simply python import. See `Usage`.
 
